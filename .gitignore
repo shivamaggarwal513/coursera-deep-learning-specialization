@@ -164,3 +164,4 @@ dont-track
 
 # Datasets
 c1-neural-networks-and-deep-learning/week-2/a2-logistic-regression-with-neural-network-mindset/datasets/*.h5
+c1-neural-networks-and-deep-learning/week-4/a2-deep-neural-networks-application/datasets/*.h5

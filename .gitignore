@@ -165,3 +165,8 @@ dont-track
 # Datasets
 c2-improving-deep-neural-networks/week-3/a1-tensorflow-introduction/datasets/*.h5
 c4-convolutional-neural-networks/week-1/a2-convolution-model-application/datasets/*/*.h5
+c4-convolutional-neural-networks/week-2/a1-residual-networks/datasets/*.h5
+c4-convolutional-neural-networks/week-2/a2-transfer-learning-with-mobilenet/datasets/*/*.jpg
+
+# Models
+c4-convolutional-neural-networks/week-2/a1-residual-networks/model/*.keras

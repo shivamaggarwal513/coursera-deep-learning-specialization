@@ -172,3 +172,5 @@ c4-convolutional-neural-networks/week-3/a2-image-segmentation-with-unet/datasets
 # Models
 c4-convolutional-neural-networks/week-2/a1-residual-networks/model/*.keras
 c4-convolutional-neural-networks/week-3/a1-car-detection-with-yolo/model_data/*.h5
+c4-convolutional-neural-networks/week-4/a1-face-recognition/facenet/*/
+c4-convolutional-neural-networks/week-4/a1-face-recognition/facenet/*.pb

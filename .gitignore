@@ -177,3 +177,4 @@ c4-convolutional-neural-networks/week-4/a1-face-recognition/facenet/*.pb
 
 # Word Embeddings
 c5-sequence-models/week-2/a1-operations-on-word-vectors/data/*.txt
+c5-sequence-models/week-2/a2-emojify/data/*.txt
